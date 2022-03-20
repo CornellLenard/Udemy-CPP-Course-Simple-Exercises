@@ -1,0 +1,6 @@
+﻿  functions.cpp
+C:\Users\78009\Desktop\Uni Time\Computer Science\C & C++\Udemy Mastering 4 Critical SKILLS Using C++ 17\Educational Management System\Educational Management System\functions.cpp(322,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\78009\Desktop\Uni Time\Computer Science\C & C++\Udemy Mastering 4 Critical SKILLS Using C++ 17\Educational Management System\Educational Management System\functions.cpp(386,28): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\78009\Desktop\Uni Time\Computer Science\C & C++\Udemy Mastering 4 Critical SKILLS Using C++ 17\Educational Management System\Educational Management System\functions.cpp(412,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\78009\Desktop\Uni Time\Computer Science\C & C++\Udemy Mastering 4 Critical SKILLS Using C++ 17\Educational Management System\Educational Management System\functions.cpp(550,20): warning C4018: “<”: 有符号/无符号不匹配
+  Educational Management System.vcxproj -> C:\Users\78009\Desktop\Uni Time\Computer Science\C & C++\Udemy Mastering 4 Critical SKILLS Using C++ 17\Educational Management System\Debug\Educational Management System.exe
